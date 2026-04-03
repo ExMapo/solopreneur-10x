@@ -24,8 +24,6 @@ These are good for the starting branch:
 - Business model
 - Simple business setup
 
----
-
 ## 2. Marketing and Lead Generation
 These are very useful for client growth:
 
@@ -47,8 +45,6 @@ These are very useful for client growth:
 - Distribution
 - Sales pipeline
 
----
-
 ## 3. Sales and Customer Management
 These help with turning leads into clients:
 
@@ -68,8 +64,6 @@ These help with turning leads into clients:
 - Retention
 - Referrals
 
----
-
 ## 4. Systems, Workflow, and Operations
 These are very good for the “systems” part of solopreneur growth:
 
@@ -88,8 +82,6 @@ These are very good for the “systems” part of solopreneur growth:
 - Process documentation
 - Scaling operations
 
----
-
 ## 5. Productivity and Mindset
 These are strong for the solopreneur mindset branch:
 
@@ -104,8 +96,6 @@ These are strong for the solopreneur mindset branch:
 - Focus
 - Time management
 - Solo work habits
-
----
 
 ## 6. Content and Personal Brand
 These can support your authority-building section:
