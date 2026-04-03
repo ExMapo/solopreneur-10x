@@ -31,7 +31,7 @@ I help businesses solve this by [your solution].
 
 If you're interested, I can share a quick idea for [their business name].
 
-No pressure — just thought it might help.
+No pressure just thought it might help.
 
 – [Your Name]
 
@@ -70,7 +70,7 @@ Can I send you a quick idea?
 
 Hi [Name],
 
-Quick question — are you looking for help with [result]?
+Quick question, are you looking for help with [result]?
 
 – [Your Name]
 
