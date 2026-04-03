@@ -1,4 +1,4 @@
-# Supporting Mind Maps for Solopreneur 10X
+# Supporting Mind Maps for Solopreneur 10X  [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A practical framework and mind map for building and scaling a one-person business (Solopreneur) covering skills, clients, offers, systems, automation, and scaling.
 
